@@ -1,5 +1,4 @@
-# go East
-a simple guide to go East
+# goeast
 ### Career Tips
 [Building Your Personal Brand](./CareerTips/BuildingYourPersonalBrand.md)
 
