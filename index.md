@@ -1,4 +1,5 @@
-# goeast
+# Journal to the east
+It's time to go east.
 ### Career Tips
 [Building Your Personal Brand](./CareerTips/BuildingYourPersonalBrand.md)
 
