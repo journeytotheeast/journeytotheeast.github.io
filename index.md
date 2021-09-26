@@ -10,10 +10,4 @@ It's time to go east.
 [Hadoop](./DataEngineering/Hadoop.md)
 
 ### Git Handbook
-[Getting Started with Git](./GitHandbook/GettingStartedwithGit.md)
-
 [Git Commands](./GitHandbook/GitCommands.md)
-
-[Creating Your GitHub Profile](./GitHandbook/CreatingYourGitHubProfile.md)
-
-[GitHub Pages](./GitHandbook/GitHubPages.md)
