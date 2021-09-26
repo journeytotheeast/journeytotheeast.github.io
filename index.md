@@ -1,8 +1,4 @@
-## Journey to the East
-
-This is a guide that every one can use to learn about computer science.
-
-## CONTENTS
+# A simple guide to go East.
 
 ### Career Tips
 [Building Your Personal Brand](./CareerTips/BuildingYourPersonalBrand.md)
@@ -21,7 +17,3 @@ This is a guide that every one can use to learn about computer science.
 [Creating Your GitHub Profile](./GitHandbook/CreatingYourGitHubProfile.md)
 
 [GitHub Pages](./GitHandbook/GitHubPages.md)
-
-### Resources for Students
-
-[Coding Interview](./ResourcesForStudents/CodingInterview.md)
