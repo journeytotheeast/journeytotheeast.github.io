@@ -10,8 +10,8 @@ This is a guide that every one can use to learn about computer science.
 ### Coding
 [Naming and Styling](./Coding/NamingAndStyling.md)
 
-### LaTeX
-[Getting Started with LaTeX](./LaTeX/GettingStartedwithLaTeX.md)
+### Data Engineering
+[Hadoop](./DataEngineering/Hadoop.md)
 
 ### Git Handbook
 [Getting Started with Git](./GitHandbook/GettingStartedwithGit.md)
