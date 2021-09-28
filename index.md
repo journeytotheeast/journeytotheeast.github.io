@@ -14,3 +14,5 @@
 [Hadoop](./DataEngineering/Hadoop.md)
 
 [Spark intro](./DataEngineering/Spark-intro.md)
+
+[DataFrames & SparkSQL](./DataEngineering/dataframe-and-spark-sql)
