@@ -15,4 +15,4 @@
 
 [Spark intro](./DataEngineering/Spark-intro.md)
 
-[DataFrames & SparkSQL](./DataEngineering/dataframe-and-spark-sql)
+[DataFrames & SparkSQL](./DataEngineering/dataframe-and-spark-sql.md)
