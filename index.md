@@ -1,5 +1,5 @@
 # Journal to the east
-`It's time to go east.`
+`Summer has come and passed`
 
 ### NextGen data engineering skills
 [ROADMAP](https://github.com/datastacktv/data-engineer-roadmap)
