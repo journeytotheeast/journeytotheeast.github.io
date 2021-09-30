@@ -1,18 +1,20 @@
 # Journal to the east
 `It's time to go east.`
 
-### Career Tips
-[Building Your Personal Brand](./CareerTips/BuildingYourPersonalBrand.md)
+### NextGen data engineering skills
+[ROADMAP](https://github.com/datastacktv/data-engineer-roadmap)
 
 ### Coding
-[Naming and Styling](./Coding/NamingAndStyling.md)
+[Convention](./Coding/swe/NamingAndStyling.md)
+[Git Handbook](./Coding/git/commands.md)
 
-### Git Handbook
-[Git Commands](./GitHandbook/GitCommands.md)
 
-### Data Engineering
-[Hadoop](./DataEngineering/Hadoop.md)
+### Hadoop
+[Hadoop](./DataEngineering/hadoop/intro.md)
 
-[Spark intro](./DataEngineering/Spark-intro.md)
+### Spark
+[Introduction](./DataEngineering/spark/intro.md)
 
-[DataFrames & SparkSQL](./DataEngineering/dataframe-and-spark-sql.md)
+[DataFrames & SparkSQL](./DataEngineering/spark/dataframe-and-spark-sql.md)
+
+[Development and Runtime Environment Options](./DataEngineering/spark/dev-runtime-options.md)
