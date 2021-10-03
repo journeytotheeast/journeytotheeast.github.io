@@ -1,5 +1,5 @@
 # Journal to the east
-```You got a fast car```
+```The East wind is coming ..```
 
 ### NextGen data engineering skills
 [ROADMAP](https://github.com/datastacktv/data-engineer-roadmap)
