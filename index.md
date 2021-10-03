@@ -9,6 +9,8 @@
 
 [Git Handbook](./Coding/git/commands.md)
 
+### SQL
+[2 cents of learning SQL](./DataEngineering/sql/2-cents.md)
 
 ### Hadoop
 [Introduction](./DataEngineering/hadoop/intro.md)
@@ -20,4 +22,5 @@
 
 [Development & Runtime Environment Options](./DataEngineering/spark/dev-runtime-options.md)
 
-[Monitoring & Tuning]()
+[Monitoring & Tuning](./DataEngineering/spark/monitoring-tuning.md)
+
