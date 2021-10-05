@@ -10,7 +10,7 @@
 [Git Handbook](./Coding/git/commands.md)
 
 ### SQL
-[2 cents of learning SQL](./DataEngineering/sql/2-cents.md)
+[SQL](./DataEngineering/sql/2-cents.md)
 
 ### Hadoop
 [Introduction](./DataEngineering/hadoop/intro.md)
