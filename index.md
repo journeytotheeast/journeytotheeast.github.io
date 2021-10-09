@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+{% include 01-name.md %}
+
 # Journal to the East
 `the East wind is comming ..`
 
