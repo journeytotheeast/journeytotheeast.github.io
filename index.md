@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% include header.md %}
 
 # Journal to the East
 `the East wind is comming ..`
