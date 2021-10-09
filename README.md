@@ -28,10 +28,10 @@
 
 [Introduction](./DataEngineering/spark/intro.md)
 
-[DataFrames & SparkSQL](./DataEngineering/spark/dataframe-and-spark-sql.md)
+[DataFrames and SparkSQL](./DataEngineering/spark/dataframe-and-spark-sql.md)
 
-[Development & Runtime Environment Options](./DataEngineering/spark/dev-runtime-options.md)
+[Development and Runtime Environment Options](./DataEngineering/spark/dev-runtime-options.md)
 
-[Monitoring & Tuning](./DataEngineering/spark/monitoring-tuning.md)
+[Monitoring and Tuning](./DataEngineering/spark/monitoring-tuning.md)
 
 </details>
