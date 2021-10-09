@@ -1,4 +1,4 @@
-# Monitoring & Tuning
+# Monitoring and Tuning
 
 - To connect to the Apache Spark user interface web server, start your application and connect to the application UI using the following URL: `http://<driver-node>:4040`
 
