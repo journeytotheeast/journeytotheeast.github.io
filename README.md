@@ -5,9 +5,9 @@
 <details>
   <summary>Coding</summary>
 
-[Convention](./Coding/swe/NamingAndStyling.md)
+[Git](./Coding/git.md)
 
-[Git Handbook](./Coding/git/commands.md)
+[Bash](./Coding/bash.md)
 </details>
 
 <details>
