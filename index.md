@@ -1,6 +1,3 @@
-# Journal to the east
-```The East wind is coming ..```
-
 ### NextGen data engineering skills
 [ROADMAP](https://github.com/datastacktv/data-engineer-roadmap)
 
