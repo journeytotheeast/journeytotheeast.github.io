@@ -1,4 +1,4 @@
-# Development & runtime options
+# Development and runtime options
 
 - Spark Architecture has driver and executor processes, coordinated by the Spark Context in the Driver.
 
