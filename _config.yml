@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Journal to the East
 author: atomic catte
 description: > # this means to ignore newlines until "baseurl:"
