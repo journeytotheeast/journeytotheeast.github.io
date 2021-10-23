@@ -1,0 +1,5 @@
+runner:
+  flake8:
+    cmd: flake8
+    errorformat:
+      - "%f:%l:%c: %m"
