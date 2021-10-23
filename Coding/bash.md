@@ -1,4 +1,4 @@
-# samples
+# Bash sample
 
 ```shell
 #!/bin/bash
