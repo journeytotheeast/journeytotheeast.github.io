@@ -5,6 +5,11 @@
 <details>
   <summary>Coding</summary>
 
+<details>
+  <summary>Python</summary>
+
+</details>
+
 [Git](./Coding/git.md)
 
 [Bash](./Coding/bash.md)
@@ -12,6 +17,8 @@
 
 <details>
   <summary>SQL</summary>
+
+[DB basic](./DataEngineering/database/db-basic.md)
 
 [SQL](./DataEngineering/sql/2-cents.md)
 </details>
