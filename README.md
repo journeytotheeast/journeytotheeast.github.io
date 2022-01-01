@@ -38,6 +38,10 @@
 
 [Introduction](./DataEngineering/hadoop/intro.md)
 
+[Overview of Hadoop Stack](./DataEngineering/hadoop/big-data-hadoop-stack.md)
+
+[Hadoop Execution Environment](./DataEngineering/hadoop/hadoop-execution-environment.md)
+
 </details>
 
 <details>
